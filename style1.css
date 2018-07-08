@@ -1,0 +1,30 @@
+
+body,html{
+	height: 100%;
+}
+
+
+body {
+	background: url("start.jpg") no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+#title {
+	color: white;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.container {
+	display: flex;
+	align-items: center;
+	flex-direction: column;
+	font-family: "Comic Sans MS", cursive, sans-serif;
+	height: 120vh;
+	justify-content: center;
+}
+
+ #mc_embed_signup{ clear:left; font:14px Helvetica,Arial,sans-serif; }
